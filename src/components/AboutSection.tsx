@@ -14,17 +14,17 @@ const AboutSection = () => {
       
       <div className="relative z-10 max-w-5xl mx-auto">
         <h2 className="text-3xl sm:text-4xl font-bold text-center mb-4">
-          About <span className="text-primary text-glow">Me</span>
+          Cara <span className="text-primary text-glow">Membeli</span>
         </h2>
         <p className="text-muted-foreground text-center max-w-2xl mx-auto mb-16">
-          Passionate about creating beautiful and functional digital experiences
+          Berikut adalah langkah-langkah cara untuk membeli
         </p>
 
         <div className="grid md:grid-cols-2 gap-8 items-center">
           {/* Bio Card */}
           <div className="p-6 rounded-2xl bg-card/50 border border-border backdrop-blur-sm">
             <p className="text-muted-foreground leading-relaxed">
-              Saya adalah seorang <span className="text-foreground font-medium">Creative Developer</span> dan 
+              Click button produk yang dipilih <span className="text-foreground font-medium">Creative Developer</span> dan 
               <span className="text-foreground font-medium"> Digital Artist</span> yang berfokus pada 
               pengembangan web modern dan desain interaktif. Dengan pengalaman dalam berbagai teknologi 
               web terkini, saya menciptakan pengalaman digital yang unik dan memorable.
