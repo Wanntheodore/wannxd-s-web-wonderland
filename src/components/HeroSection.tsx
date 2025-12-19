@@ -39,10 +39,19 @@ const HeroSection = () => {
           style={{ animationDelay: "0.6s", opacity: 0 }}
         >
           <Button variant="hero" size="xl" className="w-full sm:w-auto">
-            
+            Wajib Dibaca !!
           </Button>
           <Button variant="heroOutline" size="xl" className="w-full sm:w-auto">
-            Get In Touch
+            List Panel Pterodactyl 
+          </Button>
+          <Button variant="heroOutline" size="xl" className="w-full sm:w-auto">
+            List Vps 
+          </Button>
+          <Button variant="heroOutline" size="xl" className="w-full sm:w-auto">
+            List Akun Premium 
+          </Button>
+          <Button variant="heroOutline" size="xl" className="w-full sm:w-auto">
+            List Sewa Bot WhatsApp 
           </Button>
         </div>
         
