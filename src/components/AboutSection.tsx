@@ -1,10 +1,10 @@
 import { Code, Palette, Zap, Sparkles } from "lucide-react";
 
 const skills = [
-  { icon: Code, name: "Web Development", desc: "React, TypeScript, Node.js" },
-  { icon: Palette, name: "UI/UX Design", desc: "Figma, Adobe Creative Suite" },
-  { icon: Zap, name: "Performance", desc: "Optimization & Best Practices" },
-  { icon: Sparkles, name: "Creative Coding", desc: "Animations & Interactive Art" },
+  { icon: Database, name: "Panel Pterodactyl", desc: "Panel Run Bot Wa/Telegram" },
+  { icon: Code, name: "Pembuatan Script", desc: "Script Bot WhatsApp, Add Fitur WhatsApp dll" },
+  { icon: Cloud, name: "Create Website", desc: "Create Website Dengan Request Anda" },
+  { icon: Application, name: "Aplikasi Premium", desc: " Alight Motion, Piscart, Iqiyi, Netflix & dll" },
 ];
 
 const AboutSection = () => {
