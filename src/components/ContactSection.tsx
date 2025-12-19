@@ -18,10 +18,10 @@ const ContactSection = () => {
       
       <div className="relative z-10 max-w-4xl mx-auto">
         <h2 className="text-3xl sm:text-4xl font-bold text-center mb-4">
-          Get In <span className="text-primary text-glow">Touch</span>
+         Contact  <span className="text-primary text-glow">Me!!</span>
         </h2>
         <p className="text-muted-foreground text-center max-w-2xl mx-auto mb-16">
-          Tertarik untuk bekerja sama? Hubungi saya!
+          Ada Error/Produk Tidak Terkirim/Bertanya? Hubungi Admin !
         </p>
 
         <div className="grid md:grid-cols-2 gap-8">
@@ -33,7 +33,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <p className="text-sm text-muted-foreground">Email</p>
-                <p className="font-medium">wannxd@email.com</p>
+                <p className="font-medium">wannxdamprem@gmail.com</p>
               </div>
             </div>
             
@@ -43,7 +43,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <p className="text-sm text-muted-foreground">Location</p>
-                <p className="font-medium">Indonesia</p>
+                <p className="font-medium">Indonesia, Jawa Timur</p>
               </div>
             </div>
           </div>
