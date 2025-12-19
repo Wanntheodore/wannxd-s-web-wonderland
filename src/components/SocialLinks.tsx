@@ -4,7 +4,7 @@ const socialLinks = [
   { icon: Github, href: "https://github.com/wannxd", label: "GitHub" },
   { icon: Twitter, href: "https://twitter.com/wannxd", label: "Twitter" },
   { icon: Instagram, href: "https://instagram.com/wannxd", label: "Instagram" },
-  { icon: Mail, href: "mailto:wannxd@email.com", label: "Email" },
+  { icon: Mail, href: "mailto:wannxdamprem@email.com", label: "Email" },
 ];
 
 const SocialLinks = () => {
