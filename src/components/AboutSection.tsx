@@ -24,13 +24,11 @@ const AboutSection = () => {
           {/* Bio Card */}
           <div className="p-6 rounded-2xl bg-card/50 border border-border backdrop-blur-sm">
             <p className="text-muted-foreground leading-relaxed">
-              Click button produk yang dipilih <span className="text-foreground font-medium">Creative Developer</span> dan 
-              <span className="text-foreground font-medium"> Digital Artist</span> yang berfokus pada 
-              pengembangan web modern dan desain interaktif. Dengan pengalaman dalam berbagai teknologi 
-              web terkini, saya menciptakan pengalaman digital yang unik dan memorable.
+              Click button produk yang dipilih <span className="text-foreground font-medium">Pilih Harga</span> dan 
+              <span className="text-foreground font-medium"> Pembayaran Otomatis</span> Pilih Metode Pembayaran, Bayar sesuai Produk Akan Dikikirmkan Melalui WhatsApp/Email
             </p>
             <p className="text-muted-foreground leading-relaxed mt-4">
-              Selalu terbuka untuk proyek-proyek menarik dan kolaborasi kreatif.
+              Jika Error Silahkan Hubungi Admin ! !
             </p>
           </div>
 
