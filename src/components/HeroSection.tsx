@@ -22,16 +22,16 @@ const HeroSection = () => {
           className="mt-8 text-5xl sm:text-6xl md:text-7xl font-bold leading-tight animate-fade-in"
           style={{ animationDelay: "0.2s", opacity: 0 }}
         >
-          Hi, I'm{" "}
-          <span className="text-primary text-glow">wannxd</span>
+          Website Resmi{" "}
+          <span className="text-primary text-glow">WannXd</span>
         </h1>
         
         <p 
           className="mt-6 text-lg sm:text-xl text-muted-foreground max-w-xl animate-fade-in"
           style={{ animationDelay: "0.4s", opacity: 0 }}
         >
-          Creative Developer & Digital Artist crafting{" "}
-          <span className="text-foreground font-medium">unique digital experiences</span>
+          Layanan Pengguna{" "}
+          <span className="text-foreground font-medium">Wann Store</span>
         </p>
         
         <div 
@@ -39,7 +39,7 @@ const HeroSection = () => {
           style={{ animationDelay: "0.6s", opacity: 0 }}
         >
           <Button variant="hero" size="xl" className="w-full sm:w-auto">
-            View My Work
+            
           </Button>
           <Button variant="heroOutline" size="xl" className="w-full sm:w-auto">
             Get In Touch
